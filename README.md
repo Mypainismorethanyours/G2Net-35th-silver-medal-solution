@@ -4,5 +4,4 @@ one of ensmbled result
 
 https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves
 
-Based on this notebook:
-https://www.kaggle.com/code/vslaykovsky/g2net-pytorch-generated-realistic-noise
+This solution came from this notebook(Other data besides the competition can be obtained from here): https://www.kaggle.com/code/vslaykovsky/g2net-pytorch-generated-realistic-noise
